@@ -1,1 +1,1 @@
-# cache-quickstart
+Quarkus guide: https://quarkus.io/guides/cache
